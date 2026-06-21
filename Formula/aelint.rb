@@ -4,7 +4,6 @@ class Aelint < Formula
   url "https://github.com/alldritt/aequery/releases/download/aelint-v0.4.0/aelint-0.4.0.tar.gz"
   sha256 "c2f658a02464e22e955b44c00ca2c86b9c60585c082f50225afa10035fa38024"
   license "MIT"
-  version "0.4.0"
 
   def install
     bin.install "aelint"
